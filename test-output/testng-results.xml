@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T16:25:41Z" name="Suite" finished-at="2021-09-25T16:25:41Z" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T16:25:41Z" name="Test" finished-at="2021-09-25T16:25:41Z" duration-ms="73">
+      <class name="TestNG_Demo.N">
+        <test-method signature="N1()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N1" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N1 -->
+        <test-method signature="N2()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N2" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N2 -->
+        <test-method signature="N3()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N3" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N3 -->
+        <test-method signature="N4()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N4" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N4 -->
+        <test-method signature="N5()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N5" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N5 -->
+        <test-method signature="N6()[pri:0, instance:TestNG_Demo.N@662706a7]" started-at="2021-09-25T16:25:41Z" name="N6" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- N6 -->
+      </class> <!-- TestNG_Demo.N -->
+      <class name="TestNG_Demo.M">
+        <test-method signature="M1()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M1" finished-at="2021-09-25T16:25:41Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M1 -->
+        <test-method signature="M2()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M2" finished-at="2021-09-25T16:25:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M2 -->
+        <test-method signature="M3()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M3" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M3 -->
+        <test-method signature="M4()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M4" finished-at="2021-09-25T16:25:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M4 -->
+        <test-method signature="M5()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M5" finished-at="2021-09-25T16:25:41Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M5 -->
+        <test-method signature="M6()[pri:0, instance:TestNG_Demo.M@19e7a160]" started-at="2021-09-25T16:25:41Z" name="M6" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M6 -->
+      </class> <!-- TestNG_Demo.M -->
+      <class name="TestNG_Demo.O">
+        <test-method signature="O1()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O1" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O1 -->
+        <test-method signature="O2()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O2" finished-at="2021-09-25T16:25:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O2 -->
+        <test-method signature="O3()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O3" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O3 -->
+        <test-method signature="O4()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O4" finished-at="2021-09-25T16:25:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O4 -->
+        <test-method signature="O5()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O5" finished-at="2021-09-25T16:25:41Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O5 -->
+        <test-method signature="O6()[pri:0, instance:TestNG_Demo.O@45a4b042]" started-at="2021-09-25T16:25:41Z" name="O6" finished-at="2021-09-25T16:25:41Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- O6 -->
+      </class> <!-- TestNG_Demo.O -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
